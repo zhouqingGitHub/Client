@@ -1,0 +1,6 @@
+framework module TZTools {
+  umbrella header "TZTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
